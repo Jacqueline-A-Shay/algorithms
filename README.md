@@ -1,4 +1,4 @@
-**Grokking Algorithms - by Aditya Bhargava** - an illustrated guide for programmers and other curious people**
+**Grokking Algorithms - by Aditya Bhargava** - an illustrated guide for programmers and other curious people
 
 - To learn algorithms
 - Write more efficient code
