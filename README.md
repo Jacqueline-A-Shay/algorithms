@@ -10,7 +10,7 @@
 - [ ] How memory works
 - [ ] Arrays and linked lists
 
-** Recursion**
+**Recursion**
 - [ ] Base case and recursive case
 - [ ] The stack
 
